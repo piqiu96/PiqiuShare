@@ -1,0 +1,37 @@
+#### HBASE
+- 讲一下hbase的各个组成成分及其作用？
+- Hbase删除一条数据的过程？
+- 在HBASE中master的下线是否引起Hbase完全宕机？
+- 简单叙述Hbase？
+- Hbase中master进行负载均衡的算法？
+- 在Hbase的特点？
+- Hbase表中新建列对行键有什么影响？
+- 在Hbase中regionserver发生故障后的处理过程？
+- Hbase的region切分过程？
+- Hbase的合并过程？
+- 介绍Hbase过滤器？
+- 介绍Habse计数器？
+- 介绍Hbase协处理器（coprocessor）？
+- 触发器与存储过程的区别？
+- 简单说说Hbase二级索引？
+- 在Hbase的region预分区？
+- Hbase中rowkey的设计原则
+- Hbase中get和scan的功能以及实现的区别
+- Hbase中cell的结构
+- Hbase中region太小和region太大带来的冲突以及怎么解决？
+- Hbase中compact用途是什么，什么时候触发，分为哪两种，有什么区别，有哪些相关配置参数？
+- Hbase中列族的设计原则
+- Hbase的操作主要有get put scan delete。简单介绍delete及其缺陷。
+- Hbase建表时的注意事项？
+- Hive与Hbase整合后，什么时候创建外部表以及内部表？
+- Hbase接受数据，短时间大量导入会被锁，如何处理？
+- Hbase存储一行数据的过程
+- Hbase查询一行数据的过程
+- Hbase性能优化
+- Hbase布隆过滤器：存在一定的误判率，且不可删除
+- Hbase中的Htable是否是线程安全的？
+- 谈谈Hbase目录结构？
+- 说下Hbase Hfile结构？
+- WAL日志为何共康一个而不是每个region一个，以及WAL的切分？
+- 谈下LMS树的优缺点？
+- HBASE与Hive整合？

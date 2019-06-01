@@ -1,0 +1,103 @@
+#### JAVA
+- java中接口与抽象类的区别？
+- 简述jvm的内存布局？
+- java对象创建的过程？
+- java重载与重写的区别？
+- java中init方法与cinit方法？
+- 简单可达性分析？
+- 简单叙述你所知道的垃圾回收算法与垃圾回收器
+- 在垃圾回收对象的时候程序的逻辑是否可以继续执行
+- 将对象从年轻代到老年代是如何判断该对象的执行了多久？什么情况下发生转移？那些对象在老年代中？
+- 谈谈java中的引用？
+- 简述为什么会出现锁机制？
+- java线程同步的方式有那些？
+- synchronized和volatile（可见性与禁止指令重排序）区别？
+- java创建子类实例时会创建父类实例吗？
+- 简单叙述minor和fullgc
+- 谈谈HashMap的源码？与linkedHashMap，treeMap有什么不同？
+- java虚拟机new一个对象的过程是怎样的？
+- 说一下java中的类加载机制？
+- 双亲委派模型？
+- 简述分派？
+- 简述对象的内存布局？
+- 简述虚拟机中各个部分？
+- 谈谈java中的泛型擦除？
+- 死锁是如何产生的以及四个必要条件？
+- 说说页表的作用、内存调度算法？
+- 简述虚拟存储器？
+- 用java实现生产者消费者的三种方法？
+- 简述java Object类中的方法有那些？
+- 简述java中内部类？
+- char可以存储汉子吗？
+
+#### Java基础
+- char可以存储汉字吗？
+- jdk1.8有什么新特性？
+- 简述java中的深拷贝与浅拷贝，c++中的浅拷贝与深拷贝？
+- java中遇到过哪些Exception？
+
+#### Java容器
+- 请说出java中散列表、树对应的容器类？
+- HashMap是如何解决冲突的？
+- concurrentHashMap是怎样实现的？
+- jdk7与jdk8中hashmap实现的区别？
+- java中的异常结构？
+- HashMap的初始容量为什么设置成16吗？
+- HashMap是线程安全的吗？为什么？那些是线程安全的容器？以及HashMap与HashTable的区别？
+- ArrayList与LinkedList区别？
+- ConCurrentHashmap是如何实现的，采用什么锁？
+- 谈谈CopyOnWriteArrayList？
+- hashMap保存自定义类是需要重写自定义类的那些方法？
+
+#### java并发编程
+- java中如何创建线程？
+- java线程线程池使用有界队列实现时的饱和策略有哪些？
+- 启动线程时，start与run的区别是什么？
+- 介绍一下AbstrctQueuedSynchronizer？
+- 介绍一下Condition？
+- 介绍一下Reentrantlock？
+- java中Reentrantlock的使用场景？
+- java中synchronize与lock区别的使用场景有那些？
+- java中synchronized代码块的实现，以及jdk1.6对锁的优化？
+- java中线程池实现有那些？FixedThreadPool底层使用的是什么任务队列？
+- java中线程有几种状态？什么状态是阻塞状态的？
+- Threadlocal的实现
+- synchronize与reentrantlock的区别
+- 读写锁
+- Synchronized的实现（无锁队列）？
+- CAS底层实现原理？
+- Java中的的锁优化？
+- java中Thread与Runnable的区别？
+- java中闭锁CountDownLatch与栅栏CyclicBarrier的区别？
+- 叙述java中wait与sleep的区别以及notify与yield？
+- 介绍Java中CAS原理？
+- syncronized与lock的区别？
+
+#### java设计模式
+- 请实现单例模式？
+- 介绍工厂模式以及其适用场景？
+- 简述设计模式的原则
+- 简述代理模式的设计与实现以及使用场景
+- 简述简单工厂模式的设计与实现与策略模式的区别
+- 简述工厂方法模式及其与简单工厂模式的区别？
+- 原型模式以及深拷贝与浅拷贝
+- 外观模式（hdfs namenode实现）
+- 简述建造者模式
+- 简述观察者模式（常用）
+- 简述抽象工厂模式（常用）
+- 简述适配器模式
+- 简述迭代器模式
+- 简述单例模式
+- 简述责任链模式
+
+
+#### java中JVM
+- 简述java内存模型的happen before原则？
+- 简述ThreadLocal实现原理？
+- java中的方法区中存放哪些东西？jvm如何控制方法区的大小以及内存溢出的原因和解决办法？
+- jvm内存溢出的种类有那些？
+- 方法区会发生OutOfMemoryError吗？什么时候会呢？发生之后你怎么解决？
+- jvm如何判断对象是否失效，可达性分析是否可以解决循环引用？
+- 说出你锁知道的jvm垃圾回收算法？
+- 谈谈JVM的内存布局？
+- JVM垃圾回收分代以及何时发生minorGC以及FullGC？

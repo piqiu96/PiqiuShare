@@ -1,0 +1,30 @@
+- HIVE内部表与外部表的区别，以及各自使用与那种环境？Hive与传统数据库的区别？
+- Hiverc文件？
+- Hive分区？
+- Hive分区过多有何坏处以及分区时的注意事项？
+- Hive中复杂数据类型的使用好处与坏处？
+- Hive分桶？
+- Hive加载数据？
+- Hive的表生成函数举例？
+- Hive元数据库是用来做什么的，存储哪些信息，为何不实用Derby？
+- Hive什么情况下可以避免使用mapreduce？
+- Hive连接？
+- Hive JOIN优化？
+- Hive外连接陷阱？
+- Hive MapJoin？
+- Hive的Sort By，Order By，Distribute By，Cluster By区别？
+- 使用hive如何进行抽样查询？
+- Hive的分组排序（row_number），统计组内TopN？
+- Hive分桶的原因或者说有什么好处？
+- Hive视图？
+- Hive举例说明Multi-group by？
+- Hive严格模式？
+- Hive工作原理
+- Hive索引
+- Hive插入
+- Hive性能调优
+- Hive文件压缩格式有哪些，效率如何？
+- 如果频繁的使用自定义的UDF函数，如何不去每次通过create function temporary函数创建？
+- Hive UDF UDAF UDTF介绍？
+- Hive UDF编写过程？
+- Hive编写udaf的过程，并实现group_concat功能？

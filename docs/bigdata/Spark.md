@@ -1,0 +1,38 @@
+#### spark
+- 请说一下spark的RDD？
+- spark与RM的本质区别？
+- spark的任务调度过程？
+- 自己实现一个RDD，需要实现那些函数或者部分
+- Spark中划分stage为什么以宽依赖为基准？
+- Spark中的DAGScheduler和TaskScheduler的区别及任务调度过程？
+- Spark中的stage必须要等所有父stage执行结束吗？
+- 当上有stage关闭时，将数据存储在那里？
+- Spark的shuffle中的map输出结果的处理结构是什么？
+- 说一下spark中的基本工作流程？
+- 说一下spark的运行模式？
+- RDD是如何容错的？
+- reduce如何获取map任务的输出？
+- spark map端计算结果缓存处理并简介appendOnlyMap？
+- **spark任务调度模块？**
+- spark的存储管理？
+- spark的存储管理中的shuffle持久化？
+- 说一下spark中的shuffle过程？
+- 说一下spark中shuffle streaming？
+- 说一下spark streaming？
+- 说一下spark streaming如何处理反压？
+- 说一下spark streaming支持的输入源有哪些？
+- spark streaming与spark作业的关系？
+- spark stream优化？
+- spark streaming 优点缺点？
+- **spark hashPartitioner与rangePartitioner的实现？**
+- **spark RDD的内部数据结构以及不足？**
+- **spark join的几种形式？**
+- spark streaming的容错处理？
+- spark stream 与 storm的区别？
+- spark中reparation与coalesce的区别？
+- 用scala访问控制权限？（携程）
+- 用scala实现worldcount？
+- spark中persist与cache的区别？
+- 讲一下完整ETL的过程？
+- flume如何采集数据？
+- Tachyon？

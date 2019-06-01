@@ -1,0 +1,21 @@
+#### zookeeper
+- 简述ZAB协议以及zookeeper
+- 简述你所知道的分布式一致性协议
+- 叙述ZAB集群数据同步的过程
+- 叙述zookeeper中ACL
+- zookeeper底层实现数据一致性
+- 简述paxos算法
+- 简述zookeeper？
+- 简述zookeeper部署的时候以多少个实例部署，为什么？
+- zookeeper在重新选取leader的时候，还可以继续执行事务请求吗？
+- 请说一下zookeeper中leader的选举算法，即fastleaderelection算法？
+- 请说一下为什么会存在zookeeper，它可以用在那里？
+- zookeeper可以做横向扩展吗？可以通过增加机器提升集群的性能吗？
+- zookeeper在yarn框架中如何实现避免脑裂的？
+- 讲一下zookeeper如何保证数据的一致性？
+- 简述你所知道的分布式一致性协议
+- 简述paxos算法与zab协议的联系和区别？
+- 说明zookeeper ACL的权限模式
+- 简述zookeeper中leader选举的过程
+- 简单叙述zookeeper的日志文件与数据快照
+- 列举你所知道的分布式算法或协议？
